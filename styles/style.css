@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+  
+}
+
+h1 {
+    color: White;
+}
+
+h2 {
+    color:white;
+}
+div {
+    background-color: lightgrey;
+    width: 125px;
+    padding: 30px;
+    border: 25px solid blue; 
+    margin: 25px;
+}
+
+
+a{
+ color: Blue;
+ font-size: 50px;
+}
