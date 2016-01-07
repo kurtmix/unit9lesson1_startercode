@@ -1,6 +1,6 @@
 body {
-    background-color: gray;
-  
+    background-image: url(http://2.bp.blogspot.com/-_44kMj7OdDY/UdV6aMsc4hI/AAAAAAAAIog/aVlDXlD-dbk/s705/bp1.png);
+    background-size: cover;
 }
 
 h1 {
@@ -9,17 +9,39 @@ h1 {
 
 h2 {
     color:white;
-}
-div {
+} 
+.home {
     background-color: lightgrey;
+    width: 145px;
+    padding: 30px;
+    border: 25px solid blue; 
+    margin: 25px;
+   
+}
+.left {
+    float: left;
+}
+.center {
+
+    margin: 0 auto;
+    
+}
+.right {
+    float: right;
+}
+.home2{
+ color: Blue;
+ font-size: 50px;
+}
+
+.page1 {
+    
+    background-color: blue;
     width: 125px;
     padding: 30px;
     border: 25px solid blue; 
     margin: 25px;
+    float: left;
 }
 
 
-a{
- color: Blue;
- font-size: 50px;
-}
