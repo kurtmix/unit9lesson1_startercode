@@ -1,0 +1,21 @@
+ body {
+    background-image: url(http://www.rps.org/~/media/Albums/2014/March/01/Creative%20551255/Coloured%20smoke.ashx);
+    background-size: cover;
+}
+p {
+    color: black;
+}
+h1{
+    color:black;
+    padding-top: 100px;
+}
+a{
+    color:black;
+}
+.jumbotron {
+   background: rgb(200, 54, 54);
+   background: rgba(200, 54, 54, 0.5); 
+}
+#Hi {
+    color:rgba(0,0,0,0);
+}

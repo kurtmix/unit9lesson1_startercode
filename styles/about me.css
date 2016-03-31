@@ -1,0 +1,19 @@
+ body {
+    background-image: url(https://i.ytimg.com/vi/d-ZoGPnZjSA/maxresdefault.jpg);
+    background-size: cover;
+}
+h1{
+    color: white;
+}
+p {
+    color: white;
+}
+a {
+    color: white;
+}
+.jumbotron {
+   opacity: 0.4;
+}
+#please{
+ visibility: hidden;
+}
